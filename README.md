@@ -12,7 +12,5 @@ yes i know that evm is incorrect naming.
 
 #
 
-По всем вопросам пишите в тг в профиле\
-For all questions, write in telegram in profile\
-\
-(p.s. мне на будущее: вроде как дз4 (а за ним и л6,л7) неправильно сделана)
+По всем вопросам пишите в тг (в профиле)\
+For all questions, write in telegram (in profile)
